@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "newTest"
+name = "learnings"
 version = "0.1.0"
 description = ""
 authors = ["Aaditya Dulal <np01cp4a190231@islingtoncollege.edu.np>"]
